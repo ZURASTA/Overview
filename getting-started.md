@@ -20,6 +20,12 @@ We are using Waffle for managing most of our tasks, the board can be found at: h
 For some additional things we will use our Trello.
 
 
+Contributing
+============
+
+An outline of the process for contributing can be found at: [contributing](contributing.md).
+
+
 Documentation
 =============
 
