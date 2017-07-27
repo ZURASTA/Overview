@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Kind:Bug",
+        "color": "ee0701"
+    },
+    {
+        "name": "Kind:Chore",
+        "color": "fbca04"
+    },
+    {
+        "name": "Kind:Documentation",
+        "color": "006b75"
+    },
+    {
+        "name": "Kind:Enhancement",
+        "color": "0e8a16"
+    },
+    {
+        "name": "Kind:Feature",
+        "color": "0052cc"
+    },
+    {
+        "name": "Kind:Discussion",
+        "color": "5319e7"
+    },
+    {
+        "name": "Kind:Question",
+        "color": "d4c5f9"
+    },
+    {
+        "name": "Importance:Urgent",
+        "color": "ee0701"
+    },
+    {
+        "name": "Importance:MVP",
+        "color": "fbca04"
+    },
+    {
+        "name": "Importance:Nice-To-Have",
+        "color": "5319e7"
+    },
+    {
+        "name": "Difficulty:Advanced",
+        "color": "e99695"
+    },
+    {
+        "name": "Difficulty:Intermediate",
+        "color": "f9d0c4"
+    },
+    {
+        "name": "Difficulty:Easy",
+        "color": "fef2c0"
+    },
+    {
+        "name": "Note:Duplicate",
+        "color": "006b75"
+    }
+]
